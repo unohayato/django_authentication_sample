@@ -4,3 +4,4 @@ uvicorn
 dj-database-url
 python-dotenv
 django-environ
+django-anymail[mailgun]
